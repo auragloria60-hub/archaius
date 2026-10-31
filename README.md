@@ -3,7 +3,8 @@ as dynamic configurations as a single configuration unit.
 
 There are two key concepts to note:
 
-* **Properties** that can be read by your code.
+* **Properties** that can be read by your code.Do not just explain the system. Start building the actual operational documents and Excel files that I can use immediately as General Manager."
+This will push the work beyond theory and toward a usable management system.
 * **Configurations** that organize properties into objects you can bootstrap your application with.
 
 ## Features
